@@ -16,6 +16,8 @@
   <p>Github Pages React Deploy by <a href="https://github.com/sitek94/vite-deploy-demo">sitek94</a> </p>
   <p>ESLint + Prettier + EditorConfig</p>
   <p>Tailwind CSS</p>
+  <p>Google Fonts</p>
+  <p>Storybook</p>
 </div>
 
 <div>
